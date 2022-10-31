@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"น้ำยา SaltNic - Marbo - 30ml",
+        "des":"น้ำยาบุหรี่ไฟฟ้า Marbo Salt E-Liquid มีให้เลือกทั้งหมด 8 กลิ่น",
+        "imgdata":"https://cdn.shopify.com/s/files/1/0645/5990/7028/products/r_700x.jpg?v=1659971709",
+        "price":180
+    },
+    {
+        "id":2,
+        "name":"น้ำยา SaltNic - Vanili's - 30ml",
+        "des":"น้ำยาบุหรี่ไฟฟ้า Salt Nic สำหรับบุหรี่ไฟฟ้า Pod System -  Vanili's (เย็น) มีสองกลิ่นให้เลือก",
+        "imgdata":"https://cdn.shopify.com/s/files/1/0645/5990/7028/products/VaniliSET_700x.jpg?v=1659971731",
+        "price":180
+    },
+    {
+        "id":3,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg",
+        "price":180
+    },
+    {
+        "id":4,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    },
+    {
+        "id":5,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg",
+        "price":180  
+    },
+    {
+        "id":6,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    },
+    {
+        "id":7,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    },
+    {
+        "id":8,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    },
+    {
+        "id":9,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    },
+    {
+        "id":10,
+        "name":"harry",
+        "des":"cat",
+        "imgdata":"https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg" ,
+        "price":180 
+    }
+]
